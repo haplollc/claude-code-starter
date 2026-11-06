@@ -20,7 +20,7 @@ Then ask Claude Code about the code the way you normally would. Try:
 - Are there any circular imports in this package?
 - What is in `PricingService`?
 
-Most answers come back in one call, with file and line evidence. You need a Mac with Apple silicon and Claude Code or another MCP client.
+Most answers come back in one call, with file and line evidence. You need a Mac with Apple silicon on macOS 15 or later, and Claude Code or another MCP client.
 
 ## Before and after
 
